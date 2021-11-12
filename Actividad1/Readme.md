@@ -565,4 +565,4 @@ Usando como base estos ejercicios, podemos ampliarlos y/o modificarlos. Por ejem
 
 ***Cualquier sugerencia, advertencia de error o cualquier otro aporte será más que bienvenido***
 
-![Jaime Rabasco Ronda](imagenes/mi_signature_dpto.png)
+![Jaime Rabasco Ronda](../imagenes/mi_signature_dpto.png)
