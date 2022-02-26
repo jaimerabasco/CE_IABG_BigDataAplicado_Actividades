@@ -1,4 +1,4 @@
-# Actividad 2 módulo de Big Data Aplicado. Opción Neo4j
+# Actividad 2 módulo de Big Data Aplicado.
 
 Desarrolla un cuadernillo de Google Colab que contenga:
 ## Ejercicio 1.
